@@ -85,6 +85,6 @@ licenseGen=0
 checkLicense=0
 accpath="/proc/net/appex"
 apxexe=""
-apxlic="/appex/etc/apx.lic"
+apxlic="/appex/etc/apx-20341231.lic"
 
 installerID=".Vicer"
