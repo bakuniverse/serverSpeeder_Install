@@ -18,6 +18,11 @@ Uninstall
 wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh && chmod +x appex.sh && bash appex.sh uninstall
 
 ```  
+Install
+```
+wget --no-check-certificate -O debian.sh https://raw.githubusercontent.com/bakuniverse/download/master/debian8.sh && chmod +x debian.sh && bash debian.sh
+
+```    
 -----------------------------     
 使用此脚本安装时如遇许可证错误，可尝试使用此命令更新许可证。
 ```    
